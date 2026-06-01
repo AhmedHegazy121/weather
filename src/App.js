@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import { createTheme, ThemeProvider } from "@mui/material/styles";
 // React
@@ -57,7 +56,7 @@ function App() {
 
     axios
       .get(
-        "http://api.weatherapi.com/v1/forecast.json?key=345da89c6ee741fabcb162818262705&q=Egypt&days=1&aqi=no&alerts=no",
+        "https://api.weatherapi.com/v1/forecast.json?key=345da89c6ee741fabcb162818262705&q=Egypt&days=1&aqi=no&alerts=no",
         {
           cancelToken: new axios.CancelToken((c) => {
             cancelAxios = c;
