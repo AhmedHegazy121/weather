@@ -8,7 +8,7 @@ A professional, responsive Weather Dashboard application built with React and st
     src="weather.png" 
     alt="Weather Dashboard Project Preview" 
     style="
-      max-width: 100%; 
+      max-width: 600px; 
       height: auto; 
       border-radius: 16px; 
       box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.3); 
