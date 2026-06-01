@@ -5,7 +5,7 @@ A professional, responsive Weather Dashboard application built with React and st
 ---
 <div align="center">
   <img 
-    src="YOUR_IMAGE_URL_OR_RELATIVE_PATH_HERE" 
+    src="weather.png" 
     alt="Weather Dashboard Project Preview" 
     style="
       max-width: 100%; 
