@@ -22,7 +22,7 @@
 </p>
 
 <!-- Line breaks to add clean spacing below the badges -->
-<br>
+
 
 A professional, responsive Weather Dashboard web application built with **React** and **Redux Toolkit**, styled using **Material-UI (MUI v5)**. The application handles global state management for asynchronous data fetching, localized date-time telemetry, and instant dual-language switching with responsive Right-to-Left (RTL) layout support.
 
@@ -33,7 +33,7 @@ A professional, responsive Weather Dashboard web application built with **React*
 
 
 
----
+
 
 ## ✨ Features
 
