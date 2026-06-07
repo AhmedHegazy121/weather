@@ -20,5 +20,11 @@
   "Forecast": "النشرة الجوية",
   "Degree": "درجة",
   "Wind Speed": "سرعة الرياح",
-  "UV Index": "مؤشر الأشعة فوق البنفسجية"
+  "UV Index": "مؤشر الأشعة فوق البنفسجية",
+  "Kuwait": "الكويت",
+  "Qatar": "قطر",
+  "Oman": "عُمان",
+  "Bahrain": "البحرين",
+  "United States": "أمريكا",
+  "United Kingdom": "بريطانيا"
 }
