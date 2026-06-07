@@ -1,13 +1,5 @@
 # 🌤️ Weather Dashboard
 
-
-
-A professional, responsive Weather Dashboard web application built with **React** and **Redux Toolkit**, styled using **Material-UI (MUI v5)**. The application handles global state management for asynchronous data fetching, localized date-time telemetry, and instant dual-language switching with responsive Right-to-Left (RTL) layout support.
-
-⚡ **[اضغط هنا لمعاينة المشروع مباشرة على Vercel / Live Demo](https://weather-hq3pohhz7-ahmed-hegazy-h-projects.vercel.app/)**
-
----
-
 <!-- Line breaks to add clean spacing above the badges -->
 <br>
 
@@ -31,6 +23,14 @@ A professional, responsive Weather Dashboard web application built with **React*
 
 <!-- Line breaks to add clean spacing below the badges -->
 <br>
+
+A professional, responsive Weather Dashboard web application built with **React** and **Redux Toolkit**, styled using **Material-UI (MUI v5)**. The application handles global state management for asynchronous data fetching, localized date-time telemetry, and instant dual-language switching with responsive Right-to-Left (RTL) layout support.
+
+⚡ **[اضغط هنا لمعاينة المشروع مباشرة على Vercel / Live Demo](https://weather-hq3pohhz7-ahmed-hegazy-h-projects.vercel.app/)**
+
+---
+
+
 
 
 ---
